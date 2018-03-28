@@ -14,19 +14,19 @@
     - Light and Dark Style share common properties
     - EditorStyles grouped by categories (i.e folders)
 
------
+---
 
 # Editor Styles Tooling - Styles Editor
 
 ![editorstyles](img/editor-styles-editor.png)
 
------
+---
 
 # Editor Styles Tooling - Inspector
 
 ![editorstyles](img/editor-styles-inspector.png)
 
------
+---
 # IMGUI and StyleSheets
 
 - Basically we will use StyleSheets instead of EditorStyles when generating `GUISkin`
@@ -36,7 +36,7 @@
     - If you use to modify EditorStyles, you will modify StyleSheets instead
     - We have tried to provide tooling and workflows to make the transition as smooth as possible
 
------
+---
 # Stylesheets Workflow
 
 - StyleSheet rules map to GUIStyle:
@@ -51,12 +51,12 @@
     - Inheritance (similar to LESS/SASS)
     - And Variables!
 
------
+---
 # What does a StyleSheet look like?
 
 ![stylesheets-demo](img/stylesheets.png)
 
------
+---
 # StyleSheets Format Improvements
 
 ### Inheritance
@@ -92,19 +92,19 @@
 
 ![stylesheets-demo](img/variable_support.gif)
 
------
+---
 
 # StyleSheets Explorer with Style Picker
 
 ![style_inspector](img/uss_picker.gif)
 
------
+---
 
 # StyleSheets Palette
 
 ![style_inspector](img/style_palette.gif)
 
------
+---
 
 # What's next
 
