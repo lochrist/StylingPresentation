@@ -52,7 +52,7 @@
     - And Variables!
 
 ---
-# What does a StyleSheet look like?
+## What?
 
 ![stylesheets-demo](img/stylesheets.png)
 
